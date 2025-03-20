@@ -11,7 +11,7 @@ import kid_banner from "./Components/Assets/banner_kids.png";
 import LoginSignup from "./Pages/LoginSignup";
 import Checkout from "./Components/CartItems/Checkout";
 
-export const backend_url = 'http://localhost:4000';
+export const backend_url = 'https://e-commerce-web-backend-uu30.onrender.com';
 export const currency = '₹';
 
 function App() {
