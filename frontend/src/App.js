@@ -10,8 +10,9 @@ import men_banner from "./Components/Assets/banner_mens.png";
 import kid_banner from "./Components/Assets/banner_kids.png";
 import LoginSignup from "./Pages/LoginSignup";
 import Checkout from "./Components/CartItems/Checkout";
-
-export const backend_url = 'https://e-commerce-web-backend-uu30.onrender.com';
+//hey
+//https://e-commer-backend-1erh.onrender.com
+export const backend_url = 'https://e-commer-backend-1erh.onrender.com';
 export const currency = '₹';
 
 function App() {

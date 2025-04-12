@@ -8,11 +8,8 @@ const cors = require("cors");
 const port = process.env.PORT || 4000;
 
 app.use(express.json());
-app.use(cors({origin: "https://e-commer-frontend.vercel.app",
-       methods: "GET,POST,PUT,PATCH,DELETE",
-       credentials: true,
-       allowedHeaders: "Content-Type, Autherization"
-       
+app.use(cors({
+  origin: ['https://e-commer-frontend.vercel.app','https://e-commer-admin-swart.vercel.app'],
 }));
 
 // Database Connection With MongoDB
