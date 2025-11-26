@@ -79,7 +79,7 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/Full_Stack_Ecommerce.git
+git clone https://github.com/tanishkaverma43/E-commerce-web
 cd Full_Stack_Ecommerce
 
 # Install dependencies
