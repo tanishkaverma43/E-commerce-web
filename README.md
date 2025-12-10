@@ -19,6 +19,11 @@
 <img src="https://img.shields.io/github/stars/yourusername/Full_Stack_Ecommerce?style=social" alt="Stars" />
 <img src="https://img.shields.io/github/forks/yourusername/Full_Stack_Ecommerce?style=social" alt="Forks" />
 
+<!-- Animated divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" />
+</div>
+
 </div>
 
 ---
@@ -26,6 +31,10 @@
 ## ✨ Features
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Discover+Amazing+Features+✨" alt="Features Typing" />
+</p>
 
 | 🛒 **Customer Features** | 👨‍💼 **Admin Features** |
 |:---:|:---:|
@@ -35,6 +44,11 @@
 | 💰 Payment Integration | 🎨 Admin Dashboard |
 | 🔐 User Authentication | 📊 Category Management |
 
+<!-- Animated feature icons -->
+<div align="center">
+  <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="200" height="200" />
+</div>
+
 </div>
 
 ---
@@ -42,6 +56,15 @@
 ## 📸 Screenshots
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=Take+a+Look+at+Our+App+📱" alt="Screenshots Typing" />
+</p>
+
+<!-- Animated gallery -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-e5c936ef3b82.gif" width="50" height="50" />
+</div>
 
 ### 🔐 Login Page
 <img src="frontend\src\Components\Assets\Login.png" alt="Login Page" width="800"/>
@@ -69,6 +92,15 @@
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=00D9FF&center=true&vCenter=true&width=500&lines=Powered+by+Modern+Technologies+⚡" alt="Tech Stack Typing" />
+</p>
+
+<!-- Animated tech stack icons -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" height="50" />
+</div>
+
 <table>
 <tr>
 <td align="center" width="200">
@@ -90,11 +122,25 @@
 </tr>
 </table>
 
+<!-- Animated coding gif -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" height="200" />
+</div>
+
 </div>
 
 ---
 
 ## 🚀 Quick Start
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Get+Started+in+Minutes+🚀" alt="Quick Start Typing" />
+</div>
+
+<!-- Animated rocket -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfd7b22.gif" width="200" height="200" />
+</div>
 
 ### 📦 Prerequisites
 - Node.js (v14+)
@@ -144,6 +190,15 @@ cd admin && npm start
 ## 📡 API Endpoints
 
 <div align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=FFD700&center=true&vCenter=true&width=500&lines=Explore+Our+API+Endpoints+🔌" alt="API Typing" />
+</p>
+
+<!-- Animated API icon -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="50" height="50" />
+</div>
 
 | Method | Endpoint | Description | Auth |
 |:---:|:---:|:---|:---:|
@@ -212,6 +267,15 @@ Full_Stack_Ecommerce/
 
 <div align="center">
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=FF6B6B&center=true&vCenter=true&width=500&lines=We+Welcome+Contributions+🎉" alt="Contributing Typing" />
+</p>
+
+<!-- Animated contribution gif -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfdb7b0d5be.gif" width="200" height="200" />
+</div>
+
 Contributions are welcome! 🎉
 
 1. Fork the repository
@@ -232,10 +296,23 @@ This project is licensed under the ISC License.
 
 ---
 
-**Made with ❤️ using React and Node.js**
+<!-- Animated heart -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+❤️+using+React+and+Node.js" alt="Made with love" />
+</div>
+
+<!-- Animated footer -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257469-138e0e75-1a3b-4c7e-86c6-3e1932bbe5f8.gif" width="300" height="150" />
+</div>
 
 <div>
   <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
+</div>
+
+<!-- Animated stars -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" height="100" />
 </div>
 
 </div>
