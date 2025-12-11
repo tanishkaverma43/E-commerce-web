@@ -69,7 +69,7 @@
 ### 🔐 Login Page
 <img src="frontend\src\Components\Assets\Login.png" alt="Login Page" width="800"/>
 
-### 🚪 Logout
+### 🚪 Sign Up Page
 <img src="frontend\src\Components\Assets\Signup.png" alt="Logout" width="800"/>
 
 ### 🏠 Home Page
