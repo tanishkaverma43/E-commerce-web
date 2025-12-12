@@ -16,13 +16,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/stars/yourusername/Full_Stack_Ecommerce?style=social" alt="Stars" />
-<img src="https://img.shields.io/github/forks/yourusername/Full_Stack_Ecommerce?style=social" alt="Forks" />
-
-<!-- Animated divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100" height="100" />
-</div>
 
 </div>
 
@@ -122,25 +115,11 @@
 </tr>
 </table>
 
-<!-- Animated coding gif -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="300" height="200" />
-</div>
-
 </div>
 
 ---
 
 ## 🚀 Quick Start
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=1500&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=Get+Started+in+Minutes+🚀" alt="Quick Start Typing" />
-</div>
-
-<!-- Animated rocket -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfd7b22.gif" width="200" height="200" />
-</div>
 
 ### 📦 Prerequisites
 - Node.js (v14+)
@@ -202,10 +181,6 @@ cd admin && npm start
 
 | Method | Endpoint | Description | Auth |
 |:---:|:---:|:---|:---:|
-| `POST` | `/signup` | User registration | ❌ |
-| `POST` | `/login` | User login | ❌ |
-| `GET` | `/allproducts` | Get all products | ❌ |
-| `GET` | `/newcollections` | Latest products | ❌ |
 | `POST` | `/addtocart` | Add to cart | ✅ |
 | `POST` | `/removefromcart` | Remove from cart | ✅ |
 | `POST` | `/addproduct` | Add product | ✅ |
@@ -252,17 +227,6 @@ Full_Stack_Ecommerce/
 
 </div>
 
----
-
-## ⚠️ Security Notes
-
-> ⚠️ **Important**: Change JWT secret in production  
-> ⚠️ Implement password hashing (bcrypt)  
-> ⚠️ Use environment variables for sensitive data  
-> ⚠️ Add rate limiting & input validation
-
----
-
 ## 🤝 Contributing
 
 <div align="center">
@@ -288,14 +252,6 @@ Contributions are welcome! 🎉
 
 ---
 
-<div align="center">
-
-### 📝 License
-
-This project is licensed under the ISC License.
-
----
-
 <!-- Animated heart -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Made+with+❤️+using+React+and+Node.js" alt="Made with love" />
@@ -306,13 +262,6 @@ This project is licensed under the ISC License.
   <img src="https://user-images.githubusercontent.com/74038190/212257469-138e0e75-1a3b-4c7e-86c6-3e1932bbe5f8.gif" width="300" height="150" />
 </div>
 
-<div>
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
 
-<!-- Animated stars -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="200" height="100" />
-</div>
 
 </div>
